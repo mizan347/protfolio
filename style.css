@@ -1,0 +1,87 @@
+
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+.hire:hover{
+    color: #fff;
+}
+
+.section-heading h3{
+    color: blue;
+    font-weight: bold;
+}
+
+
+
+.introduce-area .introduce-content{
+    height: 400px;
+}
+.btn{
+    border-radius: 50px;
+}
+.introduce-image-area{
+    height: 300px;
+    width: 300px;
+    border-radius: 27% 73% 25% 75% / 67% 37% 63% 33% ;
+    background: linear-gradient(90deg, rgba(230,180,145,1) 0%, rgba(195,153,237,1) 43%, rgba(88,2,227,1) 82%, rgba(255,0,219,1) 100%);
+}
+
+.intoduce-image img{
+    height: 300px;
+    width: 300px;
+    border-radius: 60% 40% 38% 62% / 65% 52% 48% 35% ;
+}
+
+.services-area .card img{
+    width: 100px;
+    
+}
+
+.card{
+    border: none;
+}
+
+a{
+    text-decoration: none;
+}
+.work{
+    transition: .5s;
+}
+.work:hover{
+    background-color: antiquewhite;
+}
+
+.work-area .card img{
+    width: 200px;
+    height: 150px;
+}
+
+.contact-area{
+	padding: 86px 0;
+	background-color: rgb(158, 139, 139);
+}
+
+.contact-text ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+.contact-text ul li i{
+    height: 35px;
+    width: 35px;
+    background-color: tomato;
+    border-radius: 50%;
+}
+
+
+.social-icon a{
+    padding: 0px 5px;
+}
+.social-icon img{
+    width: 20px;
+}
+
